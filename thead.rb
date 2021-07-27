@@ -1,4 +1,4 @@
-HOMEBREW_THEAD_VERSION="1.0.0"
+HOMEBREW_THEAD_VERSION="1.1.0"
 
 class Thead < Formula
   desc "Eliminating duplicated lines"
